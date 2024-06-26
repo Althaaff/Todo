@@ -1,0 +1,6 @@
+node_modules
+public
+.gitignore
+README.md
+.eslintrc.cjs
+vite.config.js
